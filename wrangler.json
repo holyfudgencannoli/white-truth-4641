@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "white-truth-4641",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ff39846b-0c02-4433-9532-701936c3149e",
+      "database_name": "raspy-term-0174-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
