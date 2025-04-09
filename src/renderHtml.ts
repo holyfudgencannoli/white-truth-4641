@@ -5,7 +5,7 @@ export function renderHtml(content: string) {
 <head>
     <!-- PASTE INTO OUTERMOST FOLDER. NONE OF THE LOCATIONS HAVE BEEN MODIFIED. PLUG N PLAY -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://github.com/holyfudgencannoli/white-truth-4641/blob/main/src/css/style.css">
+    <link rel="stylesheet" href="https://holyfudgencannoli.github.io/crispy-palm-tree/assets/css/style.css">
     <meta charset="UTF-8">
     <title>Page title</title>
 </head>
