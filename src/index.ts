@@ -6,7 +6,7 @@ export default {
     const url = new URL(request.url);
     const path = url.pathname;
 
-    if (path === "/cart") {
+    if (path === "/cart.html") {
       return new Response(renderCart(), {
         headers: { "content-type": "text/html" },
       });
