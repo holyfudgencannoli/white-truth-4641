@@ -1,4 +1,4 @@
-export function renderAbout(): string {
+export function renderCart(): string {
   return `
 <!DOCTYPE html>
 <html lang="en">
