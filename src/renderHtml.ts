@@ -19,7 +19,7 @@ export function renderHtml(content: string) {
                 <a class="navlink" href="">Home |</a>
                 <a href="">Gallery |</a>
                 <a href="assets/pages/account.html">My Account |</a>
-                <a id="cart" href="/cart">My Cart</a>
+                <a id="cart" href="/cart.html">My Cart</a>
             </ul>
         </div>
     </nav>
