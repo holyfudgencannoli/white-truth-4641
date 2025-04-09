@@ -13,10 +13,10 @@ export function renderCart(): string {
         <div class="container d-flex">
             <a class="nav-link text-center" href="#"><h1 id="navtitle">American Chic</h1></a>
             <ul class="navlist justify-content-between m-3">
-                <a class="navlink" href="https://white-truth-4641.moshimoshi8246.workers.dev">Home |</a>
+                <a class="navlink" href="">Home |</a>
                 <a href="">Gallery |</a>
                 <a href="">My Account |</a>
-                <a id="cart" href="https://store.area77seven.com/pages/cart.html">My Cart</a>
+                <a id="cart" href="/cart">My Cart</a>
             </ul>
         </div>
     </nav>
